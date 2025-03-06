@@ -1,9 +1,9 @@
 <h1 align="center">Challenge Amigo Secreto</h1> 
 
--Estado del proyecto en construcción.
 
 
-##Índice
+
+<h1 align="center">Índice</h1>
 *[Descripción del Proyecto](#descripción-del-proyecto)
 *[Estado del proyecto](#Estado-del-proyecto)
 *[Características de la aplicación](#Características-de-la-aplicación)
