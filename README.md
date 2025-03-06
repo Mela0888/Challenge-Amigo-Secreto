@@ -1,7 +1,7 @@
 <h1 align="center">Challenge Amigo Secreto</h1> 
 
 -Estado del proyecto en construcción.
-![Quien será mí amigo secreto, que nervios] (https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fes%2Fsearch%2Famigo-secreto%3Fimage_type%3Dillustration&psig=AOvVaw3j7AJpLrRr2P5BzD6iH4sx&ust=1741310515149000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNDlkLal9IsDFQAAAAAdAAAAABAE)
+![Quien será mí amigo secreto, que nervios]
 ##Índice
 *[Descripción del Proyecto](#descripción-del-proyecto)
 *[Estado del proyecto](#Estado-del-proyecto)
