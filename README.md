@@ -1,7 +1,8 @@
 <h1 align="center">Challenge Amigo Secreto</h1> 
 
 -Estado del proyecto en construcción.
-![Quien será mí amigo secreto, que nervios]
+
+
 ##Índice
 *[Descripción del Proyecto](#descripción-del-proyecto)
 *[Estado del proyecto](#Estado-del-proyecto)
