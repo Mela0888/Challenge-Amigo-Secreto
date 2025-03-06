@@ -6,10 +6,15 @@
 <h1 align="center">Índice</h1>
 
 *[Descripción del Proyecto](#descripción-del-proyecto)
+
 *[Estado del proyecto](#Estado-del-proyecto)
+
 *[Características de la aplicación](#Características-de-la-aplicación)
+
 *[Tecnologías utilizadas](#tecnologías-utilizadas)
+
 *[Personas Contribuyentes](#personas-contribuyentes)
+
 *[Conclusión](#conclusión)
 
 <h1 align="center">Descripción del Proyecto</h1>
